@@ -23,3 +23,6 @@ Pyautogui
 
 Pyperclip
 
+Przykładowy short
+
+[![ALT_TEXT](THUMBNAIL_URL)](https://youtube.com/shorts/jUo1bTdoIPw?si=FlZbhs1580nBK4dr)
