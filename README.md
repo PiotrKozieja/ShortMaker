@@ -24,5 +24,4 @@ Pyautogui
 Pyperclip
 
 Przykładowy short
-
-https://youtube.com/shorts/jUo1bTdoIPw?si=FlZbhs1580nBK4dr
+[https://youtube.com/shorts/jUo1bTdoIPw?si=FlZbhs1580nBK4dr](https://youtube.com/shorts/SLEAKamAZKo?si=_6JoRrpSnjnQWhp_)https://youtube.com/shorts/SLEAKamAZKo?si=_6JoRrpSnjnQWhp_
