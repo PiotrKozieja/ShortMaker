@@ -4,6 +4,7 @@ PL
 Program służy do masowego generowania krótkich treści (shorts) z głosem lektora, muzyką i dynamicznym tłem. Fakty implementowane są do video z pliku csv. Video w tle wybierane jest przez użytkownika który może podać ścieżkę do dłuższego filmu i wybrać jego część do dalszej edycji.
 
 Sposób użycia:
+
 Jeśli zależy nam na wydajności i czasie w SampleMaker wprowadzić ścieżkę do dłuższego filmu oraz porządany czas trwania tak aby wygenerować plik (sampel) który będzie łatwiejszy do edycji przez główny program
 Zmienić przykładowe fakty w pliku Fakty.csv 
 W TitleFormater.py zmienić ścieżkę do pobranych plików.
@@ -11,9 +12,14 @@ Uruchomić MainProgram z odpowiednia nazwa sampla lub dłuższego pliku, nazwą 
 
 
 Biblioteki niezbędne do działania programu:
+
 moviepy 
+
 Csv
+
 Selenium
+
 Pyautogui
+
 Pyperclip
 
